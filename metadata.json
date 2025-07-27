@@ -1,0 +1,16 @@
+{
+  "name": "Trump6",
+  "symbol": "TRUMP6",
+  "description": "Der offizielle Trump6 Coin",
+  "image": "https://mywebsite.com/assets/trump6-logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://mywebsite.com/assets/trump6-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
