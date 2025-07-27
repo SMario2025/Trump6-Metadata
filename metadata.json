@@ -2,15 +2,22 @@
   "name": "Trump6",
   "symbol": "TRUMP6",
   "description": "Der offizielle Trump6 Coin",
-  "image": "https://mywebsite.com/assets/trump6-logo.png",
+  "seller_fee_basis_points": 500,
+  "image": "ipfs://bafybeib72jietuie5hlljz5zmxtjx6q2ud45jsdra6g6obzx4rtvbcoyjm/trump6-logo.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://mywebsite.com/assets/trump6-logo.png",
+        "uri": "ipfs://bafybeib72jietuie5hlljz5zmxtjx6q2ud45jsdra6g6obzx4rtvbcoyjm/trump6-logo.png",
         "type": "image/png"
       }
     ],
-    "category": "image"
+    "category": "image",
+    "creators": [
+      {
+        "address": "2gdbFuUfCDdhSCbqbnkw4ZWifCB8JLVVgJmBgUH5V8kK",
+        "share": 100
+      }
+    ]
   }
 }
